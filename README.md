@@ -6,4 +6,6 @@ How to use this repo:
 - Use [Discussions](https://github.com/rajatkulkarni95/octarine-feedback/discussions) to request features, ask questions, talk about what's wrong or right about Octarine.
 
 
-![notes](https://github.com/user-attachments/assets/40df5d64-52c5-4a87-a97f-d556135d5ada)
+
+
+<img width="1368" alt="landing" src="https://github.com/user-attachments/assets/7c508576-d60a-4a14-9f1d-b51628bc2f44" />
