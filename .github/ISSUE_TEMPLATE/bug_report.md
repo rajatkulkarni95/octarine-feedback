@@ -27,6 +27,8 @@ If applicable, add screenshots to help explain your problem.
  - OS: [e.g. Mac / Linux]
  - Version [e.g. 0.19.2]
 
+**Are you pro license holder?**
+- [ ] yes
 
 **Additional context**
 Add any other context about the problem here.
