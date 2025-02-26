@@ -1,4 +1,6 @@
-Issues and discussions for [Octarine](https://octarine.app), the privacy focused Markdown writing app for Mac.
+Issues and discussions for [Octarine](https://octarine.app), the privacy focused Markdown writing app.
+
+Available on Mac, Windows and Linux
 
 How to use this repo:
 
