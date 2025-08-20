@@ -7,6 +7,8 @@ assignees: rajatkulkarni95
 
 ---
 
+Have you read the [documentation](https://docs.octarine.app) ensuring there's no workaround or report of this?
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
@@ -31,4 +33,4 @@ If applicable, add screenshots to help explain your problem.
 - [ ] yes
 
 **Additional context**
-Add any other context about the problem here.
+Add any other context about the problem here. Please be polite :)
