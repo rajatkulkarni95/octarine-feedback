@@ -9,6 +9,8 @@ assignees: rajatkulkarni95
 
 Have you read the [documentation](https://docs.octarine.app) ensuring there's no workaround or report of this?
 
+Have you checked the in-app settings to see if anything related to the issue already exists?
+
 **Describe the bug**
 A clear and concise description of what the bug is.
 
