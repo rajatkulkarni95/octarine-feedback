@@ -12,4 +12,4 @@ How to use this repo:
 
 
 
-<img width="1368" alt="landing" src="https://octarine.app/images/new_landing.png" />
+<img width="1368" alt="landing" src="https://pub-d9b2979edab5442388c14f8014e177b7.r2.dev/landing/new/landing.jpeg" />
